@@ -1,0 +1,5 @@
+export { MainPage } from './main-page'
+export { AboutPage } from './about-page'
+export { TreatmentPage } from './treatment-page'
+export { PrevetionPage } from './prevetion-page'
+export { SymptomsPage } from './symptoms-page'

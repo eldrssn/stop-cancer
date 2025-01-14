@@ -1,0 +1,18 @@
+export const Colors = {
+  WHITE: '#FFFFFF',
+  BLACK: '#000000',
+  RED: '#ec5899',
+  PURPLE: '#472981',
+  PURPLE_LIGHT: '#C05AFF',
+  PURPLE_DARK: '#1c1d3e',
+  PURPLE_LIGHT_BORDER: '#b3abf7',
+  PURPLE_BRIGHT: '#645aba',
+  WHITE01: 'rgba(255, 255, 255, 0.1)',
+  WHITE015: 'rgba(255, 255, 255, 0.1)',
+  WHITE025: 'rgba(255, 255, 255, 0.25)',
+  WHITE03: 'rgba(255, 255, 255, 0.3)',
+  WHITE05: 'rgba(255, 255, 255, 0.5)',
+  WHITE07: 'rgba(255, 255, 255, 0.7)',
+  BLUE04: 'rgba(138, 212, 255, 0.4)',
+  BLUE_DARK: '#1c1d3e',
+}
