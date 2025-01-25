@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/eldrssn/stop-cancer/blob/master/public/share.png" alt="Screen Shot">
+    <img src="https://github.com/eldrssn/stop-cancer/blob/master/public/images/share.png" alt="Screen Shot">
 </p>
 
 # What is Cancer: A Comprehensive Guide to Oncological Diseases 🩺  
