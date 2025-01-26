@@ -11,6 +11,7 @@ A multi-page interactive website dedicated to describing oncological diseases. I
 - Information is presented in various formats.  
 - All information includes links to sources.  
 - Fully responsive design for all types of devices.  
+- Fluid layout ensuring smooth scaling on any screen size. 
 
 ## Technology Stack:  
 - **Builder:** Vite  
