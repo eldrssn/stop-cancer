@@ -8,13 +8,6 @@ import { usePreloader } from './hooks/use-preloader'
 import { Loader } from './pages/main-page/main-page.styled'
 
 const App = () => {
-  useEffect(() => {
-    if (typeof window !== 'undefined' && window.ym) {
-      window.yaParams = { X: 'yyy' }
-      window.ym(1915831, 'params', window.yaParams)
-    }
-  }, [])
-
   const [showLoader, setShowLoader] = useState(true)
 
   const isLoading = usePreloader()
